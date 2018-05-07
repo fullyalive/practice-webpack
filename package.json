@@ -1,0 +1,14 @@
+{
+  "name": "practice-webpack",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "fullyalive <wogud1202@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "eslint": "^4.19.1"
+  },
+  "devDependencies": {
+    "webpack": "^4.7.0",
+    "webpack-cli": "^2.1.3"
+  }
+}
